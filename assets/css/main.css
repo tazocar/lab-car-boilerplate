@@ -1,0 +1,92 @@
+/* Los estilos de tu proyecto */
+body { 
+	padding-top: 7.6em;
+	color:#FFF; 
+}
+.row-clear{
+	margin:0;
+}
+.nav-labcar{
+	padding: 2em;
+	background-color: #FFF;
+	border:none;
+	margin:0;
+}
+.navbar-default .navbar-lab > li > a {
+  color: #000;
+}
+.navbar-default .navbar-lab > li > a:hover,
+.navbar-default .navbar-lab > li > a:focus {
+  color: #ffc107;
+}
+.labcar-img-first-background{
+	background-image:url(../images/taxi.jpg);
+	background-size: cover;
+	background-position: 0 93%;
+	padding: 7.5em 0;
+}
+.yellow-container-background{
+	background-color: #ffc107;
+	padding: 3em;
+	font-weight: bold;
+}
+h2{
+	font-size: 2.5em;
+	margin:0;
+}
+h4{
+	font-size: 2em;
+	padding: 1em 0 0.5em 0;
+}
+.labcar-white-img{
+	height: 0.8em;
+	vertical-align: -1px;
+}
+.btn-lab{
+	color:#000;
+	background-color: #FFF;
+	padding:0.7em;
+	border:none;
+	margin: 1em 0;
+}
+.before-after-lines:before{
+	content: '';
+	width: 30%;
+    border-bottom: solid 1px #fff;
+    position: absolute;
+    bottom: 9.2em;
+    left: 3em;
+}
+.before-after-lines:after{
+	content: '';
+	width: 30%;
+    border-bottom: solid 1px #fff;
+    position: absolute;
+    bottom: 9.2em;
+    right: 3em;
+}
+.section-yellow-background{
+	background-color: #ffc107;
+	padding: 3em 0;
+}
+.border-white{
+	outline:1px solid #FFF;
+	padding: 2em;
+}
+.iphone-div-md{
+	padding-left: 5em;
+}
+.download-app{
+	padding-top: 2.5em;
+}
+.download-app p{
+	font-size: 1.5em;
+	margin-top: 1.8em;
+}
+h2.visible-xs.text-center{
+	margin-bottom: 1em;
+}
+.arrive-faster{
+	margin: 2em 0 0 0;
+	font-size: 1.5em;
+}
